@@ -15,7 +15,7 @@ https://hansika2809.streamlit.app/
 
 ---
 
-# ⭐ Why I Built InsightGenAI
+# ⭐ Why I Built HealthPulseAI
 
 While working on multiple data analytics projects, I noticed that every project followed the same repetitive workflow:
 
@@ -32,7 +32,7 @@ This made me ask a simple question:
 
 > **"What if AI could automate repetitive analytical tasks while allowing Data Analysts to focus on solving business problems?"**
 
-That question became the inspiration behind **InsightGenAI**.
+That question became the inspiration behind **HealthPulseAI**.
 
 The goal isn't to replace Data Analysts.
 
@@ -42,7 +42,7 @@ The goal is to build an intelligent AI assistant that accelerates their workflow
 
 # 🎯 Project Objective
 
-InsightGenAI automates the complete analytics pipeline by enabling users to:
+HealthPulseAI automates the complete analytics pipeline by enabling users to:
 
 * Upload CSV and Excel datasets
 * Connect directly to PostgreSQL databases
